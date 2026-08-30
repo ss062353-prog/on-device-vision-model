@@ -1,0 +1,8 @@
+torch
+torchvision
+transformers
+pillow
+accelerate
+sentencepiece
+huggingface_hub
+rapidocr_onnxruntime

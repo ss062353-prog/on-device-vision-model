@@ -1,0 +1,10 @@
+.venv/
+models/
+ocr_models/
+work/
+logs/
+__pycache__/
+*.pyc
+*.whl
+*.part
+.DS_Store
